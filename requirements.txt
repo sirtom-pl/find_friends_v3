@@ -1,5 +1,5 @@
 streamlit
-pandas>=1.5.3,<2.1
+pandas>=1.5.3
 plotly
-pycaret==3.2.0
-scikit-learn
+pycaret>=3.3.0  # Lub bez wersji: pycaret
+scikit-learn>=1.4.0
